@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">StudentGuide in Szeged</string>
+    <string name="category_faculties">Faculties</string>
+    <string name="category_dormitories">Dorms</string>
+    <string name="category_food_drink">Food&amp;Drink</string>
+    <string name="category_pastime">Pastime</string>
+
+    <string name="faculty_arts">Faculty of Arts</string>
+    <string name="faculty_sciences">Faculty of Sciences</string>
+    <string name="faculty_economy">Faculty of Economic Sciences</string>
+    <string name="faculty_law">Faculty of Law</string>
+    <string name="faculty_education">Juhász Gyula Faculty of Education</string>
+    <string name="faculty_health">Faculty of Health Science</string>
+    <string name="faculty_medicine">Faculty of Medicine</string>
+    <string name="faculty_engineering">Faculty of Engineering</string>
+    <string name="faculty_dentistry">Faculty of Dentistry</string>
+    <string name="faculty_pharmacy">Faculty of Pharmacy</string>
+
+    <string-array name="faculties">
+        <item>@string/faculty_arts</item>
+        <item>@string/faculty_sciences</item>
+        <item>@string/faculty_education</item>
+        <item>@string/faculty_economy</item>
+        <item>@string/faculty_law</item>
+        <item>@string/faculty_engineering</item>
+        <item>@string/faculty_health</item>
+        <item>@string/faculty_medicine</item>
+        <item>@string/faculty_dentistry</item>
+        <item>@string/faculty_pharmacy</item>
+    </string-array>
+
+    <string name="address_arts">6722 Szeged, Egyetem u. 2.</string>
+    <string name="address_sciences">6720 Szeged, Dugonics tér 13.</string>
+    <string name="address_education">6725 Szeged, Boldogasszony sgt. 6.</string>
+    <string name="address_economy">6722 Szeged, Kálvária sgt. 1.</string>
+    <string name="address_law">6720 Szeged, Tisza Lajos krt. 54.</string>
+    <string name="address_engineering">6724 Szeged, Mars tér 7.</string>
+    <string name="address_health">6726 Szeged. Temesvári krt. 31.</string>
+    <string name="address_medicine">6725 Szeged, Tisza Lajos krt. 107.</string>
+    <string name="address_dentistry"> 6722 Szeged, Tisza Lajos krt 83. Fsz.</string>
+    <string name="address_pharmacy">6720 Szeged, Zrínyi u 9.</string>
+
+    <string-array name="faculty_address">
+        <item>@string/address_arts</item>
+        <item>@string/address_sciences</item>
+        <item>@string/address_education</item>
+        <item>@string/address_economy</item>
+        <item>@string/address_law</item>
+        <item>@string/address_engineering</item>
+        <item>@string/address_health</item>
+        <item>@string/address_medicine</item>
+        <item>@string/address_dentistry</item>
+        <item>@string/address_pharmacy</item>
+    </string-array>
+
+    <string name="phone_arts">(+36 62) 544 360, 544 361</string>
+    <string name="phone_sciences"> (62) 544 000 </string>
+    <string name="phone_education">06 62 546 064</string>
+    <string name="phone_economy">06 62 546 914</string>
+    <string name="phone_law">06 62 544 189</string>
+    <string name="phone_engineering">06 62 546 014, 06 62 546 031</string>
+    <string name="phone_health">62/545 515</string>
+    <string name="phone_medicine">06 62 545 020</string>
+    <string name="phone_dentistry">06 62 545 300</string>
+    <string name="phone_pharmacy">06 62 546 126</string>
+
+    <string-array name="faculty_phone">
+        <item>@string/phone_arts</item>
+        <item>@string/phone_sciences</item>
+        <item>@string/phone_education</item>
+        <item>@string/phone_economy</item>
+        <item>@string/phone_law</item>
+        <item>@string/phone_engineering</item>
+        <item>@string/phone_health</item>
+        <item>@string/phone_medicine</item>
+        <item>@string/phone_dentistry</item>
+        <item>@string/phone_pharmacy</item>
+    </string-array>
+
+    <string name="email_arts"> btkdekani@primus.arts.u-szeged.hu</string>
+    <string name="email_sciences">tkdh@sci.u-szeged.hu</string>
+    <string name="email_education">mi@jgypk.u-szeged.hu</string>
+    <string name="email_economy">szilzsu@eco.u-szeged.hu</string>
+    <string name="email_law">sasgabriella@juris.u-szeged.hu</string>
+    <string name="email_engineering">mk-to@mk.u-szeged.hu</string>
+    <string name="email_health"> tanosz@etszk.u-szeged.hu</string>
+    <string name="email_medicine">office.aokto@med.u-szeged.hu</string>
+    <string name="email_dentistry"> tanulmanyi.ugyintezes@stoma.u-szeged.hu</string>
+    <string name="email_pharmacy">nadudvari@pharm.u-szeged.hu</string>
+
+    <string-array name="faculty_email">
+        <item>@string/email_arts</item>
+        <item>@string/email_sciences</item>
+        <item>@string/email_education</item>
+        <item>@string/email_economy</item>
+        <item>@string/email_law</item>
+        <item>@string/email_engineering</item>
+        <item>@string/email_health</item>
+        <item>@string/email_medicine</item>
+        <item>@string/email_dentistry</item>
+        <item>@string/email_pharmacy</item>
+    </string-array>
+
+    <string name="dormitory_karolyi">Károlyi Mihály Kollégium/6724 Szeged, Kossuth Lajos sgt. 74.</string>
+    <string name="dormitory_mora">Móra Ferenc Kollégium/6726 Szeged, Közép fasor 31&#8211;33.</string>
+    <string name="dormitory_eotvos">Eötvös Lóránd Kollégium/6725 Szeged, Tisza Lajos krt. 103.</string>
+    <string name="dormitory_teleki">Teleki Blanka Kollégium/6725 Szeged, Semmelweis utca 5.</string>
+    <string name="dormitory_hermann">Hermann Ottó Kollégium/6726 Szeged Temesvári krt. 50&#8211;52.</string>
+    <string name="dormitory_otthalmi">Ötthalmi Diáklakások/6728 Szeged, Budapesti út 7.</string>
+    <string name="dormitory_sik">Sík Sándor Katolikus Szakkollégium/6721 Szeged Lechner tér 2/A</string>
+    <string name="dormitory_szentimre">Szent Imre Katoikus Szakkollégium/6724 Szeged Londoni krt. 13.</string>
+    <string name="dormitory_apathy">Apáthy István Kollégium/6720 Szeged, Apáthy u. 4.</string>
+    <string name="dormitory_beke">Béke Utcai Kollégium/6722 Szeged, Béke u. 11&#8211;13.</string>
+
+    <string-array name="dormitories">
+        <item>@string/dormitory_apathy</item>
+        <item>@string/dormitory_eotvos</item>
+        <item>@string/dormitory_karolyi</item>
+        <item>@string/dormitory_mora</item>
+        <item>@string/dormitory_teleki</item>
+        <item>@string/dormitory_hermann</item>
+        <item>@string/dormitory_otthalmi</item>
+        <item>@string/dormitory_sik</item>
+        <item>@string/dormitory_szentimre</item>
+        <item>@string/dormitory_beke</item>
+    </string-array>
+    
+    <string name="beke_tanszek">Béke tanszék/Szeged, Boldogasszony sgt. 11.</string>
+    <string name="retro">Retro Klub/Szeged, Széchenyi tér 3.</string>
+    <string name="blues_cafe">Blues Café/Szeged, Somogyi utca 20.</string>
+    <string name="millenium">Milleniumi Kávéház/Szeged, Dugonics tér 12.</string>
+    <string name="mignon">Mignon/Szeged, Kossuth Lajos sgrt. 6</string>
+    <string name="szote_menza">SZOTE ételbár/Szeged, Semmelweis u. 4</string>
+    <string name="godor">Gödör Étterem/Szeged, Tisza Lajos krt. 103.</string>
+    <string name="wok">Wok n\'GO/Szeged, Jókai u. 5</string>
+    <string name="boci">Boci Tejivó/ Szeged Zrínyi u. 2</string>
+    <string name="nagya">Nagyá Menza/Szeged Jókai utca 5.</string>
+
+    <string-array name="csehok">
+        <item>@string/beke_tanszek</item>
+        <item>@string/retro</item>
+        <item>@string/blues_cafe</item>
+        <item>@string/millenium</item>
+        <item>@string/mignon</item>
+        <item>@string/szote_menza</item>
+        <item>@string/godor</item>
+        <item>@string/wok</item>
+        <item>@string/boci</item>
+        <item>@string/nagya</item>
+    </string-array>
+
+    <string name="soho">Soho Music Club/Szeged Londoni krt.19.</string>
+    <string name="club_jate">JATE Klub/Szeged, Dugonics tér 13.</string>
+    <string name="club_szote">SZOTE Klub/Szeged Dóm tér 13.</string>
+    <string name="grand_cafe">Grand Cafe/ Szeged, Deák Ferenc u. 18.</string>
+    <string name="cinema">Cinema City/Szeged, Kossuth Lajos sgrt. 119.</string>
+    <string name="theater">National Theater/Szeged, Vaszy Viktor tér 1.</string>
+    <string name="fuveszkert">Botanical Garden/Szeged, Lövölde út 42.</string>
+    <string name="aquapolis">Aquapolis/Szeged, Szent-Györgyi Albert u. 2.</string>
+    <string name="zoo">ZOO/Szeged, Cserepes sor 47.</string>
+    <string name="tik">TIK Center/Szeged, Ady tér 10.</string>
+
+    <string-array name="pastime">
+        <item>@string/soho</item>
+        <item>@string/club_jate</item>
+        <item>@string/club_szote</item>
+        <item>@string/grand_cafe</item>
+        <item>@string/cinema</item>
+        <item>@string/theater</item>
+        <item>@string/fuveszkert</item>
+        <item>@string/aquapolis</item>
+        <item>@string/zoo</item>
+        <item>@string/tik</item>
+    </string-array>
+</resources>
+
+
